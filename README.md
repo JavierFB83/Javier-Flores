@@ -19,3 +19,5 @@
 <img src="https://camo.githubusercontent.com/bf911538def9c21003c9305c8f955ab69484ad2d3455c7c08118dc0d9745b779/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
 
 <img src="https://smartbear.com/crossbrowsertesting/media/blog/sb_cbt_ad_selenium-v-cypress3.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Selenium vs. Cypress: Is WebDriver on Its Way Out?" data-noaft="1" style="width: 433px; height: 226.603px; margin: 0px;">
+<br>
+And more...
