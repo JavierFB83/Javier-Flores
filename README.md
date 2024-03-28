@@ -6,7 +6,6 @@
 
   [Linkedin](https://linkedin.com/in/javier-flores-borrego)
   
-  [Facebook](https://Facebook.com/javi.flores.3785)
   
   
  javifb1983@gmail.com
