@@ -15,5 +15,5 @@
 ## Contacto
 ¡Si estás interesado en colaborar en proyectos interesantes o simplemente quieres charlar sobre QA, no dudes en contactarme!
 
-- LinkedIn: [Javier Flores](https://www.linkedin.com/in/javier-flores)
+- LinkedIn: [Javier Flores](www.linkedin.com/in/javier-flores-borrego)
 - Correo electrónico: javifbb1983@gmail.com
