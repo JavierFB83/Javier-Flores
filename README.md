@@ -5,6 +5,7 @@ https://img.shields.io/badge/hello-word-pink
 
 ## Sobre mí
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la calidad de software y la automatización, con experiencia en pruebas de software y desarrollo de pruebas automatizadas. Estoy comprometido con la mejora continua y la entrega de productos de alta calidad.
+<img alt="Static Badge" src="https://img.shields.io/badge/QA-Automation-blue">
   
 
 ## Conocimientos
