@@ -22,6 +22,7 @@
     
 🚀 **CI/CD:** 
   - GitLab
+  - GitHub actions
     
 🔧 **Otros:** 
   - Git
