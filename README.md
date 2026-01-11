@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 I am passionate about software quality and automation, with experience in software testing and developing automated tests. I am committed to continuous improvement and delivering high-quality products.
 
 ## Stack
-🤖 ** Test Automation:**
+🤖 **Test Automation:**
   - Functional UI & API tests
   - UI & process performance testing
   - Load / stress testing
