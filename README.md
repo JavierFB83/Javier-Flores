@@ -1,22 +1,24 @@
 
-# ¡Hola, soy Javier Flores! 👋
+# Hello, I'm Javier Flores! 👋
 
 [<img alt="Static Badge" src="https://img.shields.io/badge/QA-Automation-blue">](https://www.linkedin.com/in/javier-flores-borrego)
 
-## Sobre Mí
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la calidad de software y la automatización, con experiencia en pruebas de software y desarrollo de pruebas automatizadas. Estoy comprometido con la mejora continua y la entrega de productos de alta calidad.
+## About Me
+Welcome to my GitHub profile! 
+I am passionate about software quality and automation, with experience in software testing and developing automated tests. I am committed to continuous improvement and delivering high-quality products.
 
 ## Stack
-🤖 **Automatización de Pruebas:**
-  - Funcionales UI & API
-  - Performance UI & procesos
-  - Carga/stress
+🤖 ** Test Automation:**
+  - Functional UI & API tests
+  - UI & process performance testing
+  - Load / stress testing
     
 🛠️ **Frameworks:**
   - Cypress
   - Postman
+  - Locust
     
-💻 **Lenguajes:**
+💻 **Languages:**
   - JavaScript / TypeScript
   - Python
     
@@ -24,11 +26,11 @@
   - GitLab
   - GitHub actions
     
-🔧 **Otros:** 
+🔧 **Other tools:** 
   - Git
   - Linux
 
 
-## Contacto
+## Contact
 - LinkedIn: [Javier Flores](https://www.linkedin.com/in/javier-flores-borrego)
-- Correo electrónico: [javifbb1983@gmail.com](mailto:javifbb1983@gmail.com)
+- Email: [javifbb1983@gmail.com](mailto:javifbb1983@gmail.com)
